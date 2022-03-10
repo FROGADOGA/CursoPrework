@@ -1,1 +1,168 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T03:36:42.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21" etag="jpW7bVJXjCnq5jX0NTXM" version="16.6.7" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T04:18:58.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21" etag="cRiUKXaw9w_MwVs5wpfD" version="16.6.7" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2597" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-1" target="rSGncxZ_Eo4ErZCZNlsm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-1" value="Medidas de Seguridad:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-2" value="Guantes&lt;br&gt;Bata&lt;br&gt;Campana de extraccion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-4" target="rSGncxZ_Eo4ErZCZNlsm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-4" value="Metodo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-5" target="rSGncxZ_Eo4ErZCZNlsm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-5" target="rSGncxZ_Eo4ErZCZNlsm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-5" value="Preparar el NaOH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-10" target="rSGncxZ_Eo4ErZCZNlsm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-10" value="Diluir las pepas de Hidroxido de Sodio en 50ml agua.&lt;br&gt;Esto hacerlo en la campana de extraccion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-12" target="rSGncxZ_Eo4ErZCZNlsm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-12" value="Cuando ya este diluida, agregar otros 50ml" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="450" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-16" target="rSGncxZ_Eo4ErZCZNlsm-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-16" value="Ya esta preparado el NaOH" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-18" target="rSGncxZ_Eo4ErZCZNlsm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-18" value="Ensamblar el systema para las pruebas" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-21" target="rSGncxZ_Eo4ErZCZNlsm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-21" target="rSGncxZ_Eo4ErZCZNlsm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-21" value="Poner la bureta en la pinza universal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-23" target="rSGncxZ_Eo4ErZCZNlsm-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-23" value="Ponerla a 1/3 de la bureta en la pinza" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-26" target="rSGncxZ_Eo4ErZCZNlsm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-26" value="Poner debajo una hoja blanca para ver mejor el color de la reaccion" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-28" value="Poner el elernmayer ensima de la hoja&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="660" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-32" target="rSGncxZ_Eo4ErZCZNlsm-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-32" target="rSGncxZ_Eo4ErZCZNlsm-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-32" value="Vertir los reactivos" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-35" target="rSGncxZ_Eo4ErZCZNlsm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-35" value="Poner el NaOH en la bureta hasta llegar al 0 en su medida" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-37" value="Vertir 10ml de vinagre en el elernmayer" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-40" target="rSGncxZ_Eo4ErZCZNlsm-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-40" value="Empezar con el experimento&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-43" target="rSGncxZ_Eo4ErZCZNlsm-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-43" target="rSGncxZ_Eo4ErZCZNlsm-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-43" value="Poner 1 gota de fenolftaleina, en el vinagre" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-45" value="SOLO PONER 1 GOTA" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="815" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-47" target="rSGncxZ_Eo4ErZCZNlsm-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-47" value="Empezar a vertir el NaOH en el vinagre de forma controlada (gota a gota)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="965" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-49" target="rSGncxZ_Eo4ErZCZNlsm-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-49" value="Cuando el vinagre se empiece a tomar un tono de rosa claro, dejar de vertir NaOH y medir la cantidad de cuanto fue gastado&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1090" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-51" target="rSGncxZ_Eo4ErZCZNlsm-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="rSGncxZ_Eo4ErZCZNlsm-51" target="rSGncxZ_Eo4ErZCZNlsm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="1283" />
+              <mxPoint x="10" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-51" value="Repetir 4 veces por cada marca de vinagre" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1252.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rSGncxZ_Eo4ErZCZNlsm-53" value="FIN" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1392.5" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
